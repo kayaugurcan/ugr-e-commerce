@@ -1,10 +1,10 @@
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
-
 class Constants {
   final animationDurationTime = 3000;
-  final Color primaryColor = const Color(0x00a163f7);
-  final Color secondaryColor = const Color(0x006F88Fc);
-  final Color thirdColor = const Color(0x0045E3FF);
-  final Color fourthColor = const Color(0x00FF7582);
+  final email = "Email";
+  final leftPadding = 20.0;
+  final password = "Password";
+  final login = "LOGIN";
+  final generalHeight = 20;
+  final borderRadiusNormal = 12.0;
+  final registerNow = "Or Register now";
 }

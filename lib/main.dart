@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ugr/View/Splash_Screen_View.dart';
+import 'package:ugr/View/login_screen_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,9 +11,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      debugShowCheckedModeBanner: false,
-      title: 'Ugr',
-      home: SplashScreenView(),
-    );
+        debugShowCheckedModeBanner: false,
+        title: 'Ugr',
+        //home: SplashScreenView(),
+        home: LoginScreenView());
   }
 }
