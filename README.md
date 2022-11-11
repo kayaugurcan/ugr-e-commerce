@@ -1,3 +1,3 @@
 # ugr
 
-This is an educational FLutter e-commerce app.
+This is an educational Flutter e-commerce app.
